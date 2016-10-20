@@ -11,8 +11,6 @@
     <application
             android:allowBackup="true"
             android:label="wangTest"
-            android:icon="@drawable/ic_launcher"
-
     >
 
         <activity android:name="com.wang.www.MyClass">
